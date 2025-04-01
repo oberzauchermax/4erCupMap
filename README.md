@@ -1,12 +1,20 @@
-# React + Vite
+# 4er Cup Map
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Building Instructions
 
-Currently, two official plugins are available:
+### Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+cd _clients/vite-client # enter client directory
+npm i                   # install the client's dependencies
+npm run dev             # start the client
+```
 
-## Expanding the ESLint configuration
+### Deployment
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+cd _clients/vite-client # enter client directory
+npm i                   # install the client's dependencies
+npm run build           # build the client
+npm run deploy          # deploy the client
+```
