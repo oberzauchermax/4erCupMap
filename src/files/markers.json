@@ -1,0 +1,281 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.588460994732941, 46.809436100660406]
+            },
+            "properties": {
+                "title": "Start",
+                "description": "Washington, D.C.",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.588902914483386, 46.80973319019644]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.589660919946779, 46.810151100301795]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.590026304441615, 46.81026841964318]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.590815715404814, 46.81047218421011]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "Washington, D.C.",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.591492353382433, 46.810444398180266]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.592367471820342, 46.81025915760307]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.59354318494116, 46.81046994900162]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.594345165434206, 46.810148693356076]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "Washington, D.C.",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.595731867500438, 46.81083342450993]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.596397055338299, 46.81100231128392]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.597030846223117, 46.81066017250604]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "Washington, D.C.",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.59778190305323, 46.80988652296097]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.59884292079206, 46.808087043243205]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.596538417081597, 46.806987298078674]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.594130510365941, 46.80816861665049]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "Washington, D.C.",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.59347063525914, 46.80725055559566]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.592835884565858, 46.806783347266155]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.59144003183196, 46.806894635203534]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "Washington, D.C.",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.58990262784268, 46.80709607576761]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.5885863817939, 46.80818650768393]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "Washington, D.C.",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.58775187422275, 46.80897575889537]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.588059124734649, 46.80894200825843]
+            },
+            "properties": {
+                "title": "Mapbox",
+                "description": "San Francisco, California",
+                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+            }
+        }
+    ]
+}
