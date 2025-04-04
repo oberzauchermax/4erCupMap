@@ -5,276 +5,312 @@
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.588460994732941, 46.809436100660406]
+                "coordinates": [13.588045670939488, 46.80893149495315]
             },
             "properties": {
-                "title": "Start",
-                "description": "Washington, D.C.",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 0,
+                "title": "START | ZIEL",
+                "imageURL": "./start-finish-flag-big.png"
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.588902914483386, 46.80973319019644]
+                "coordinates": [13.588059722531522, 46.8084678432627]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 1,
+                "title": "Löffelrennen",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.589660919946779, 46.810151100301795]
+                "coordinates": [13.588280682095463, 46.807903609374605]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 2,
+                "title": "Zungenbrecher",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.590026304441615, 46.81026841964318]
+                "coordinates": [13.589083262254457, 46.80727651943128]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 3,
+                "title": "Wörterkette",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.590815715404814, 46.81047218421011]
+                "coordinates": [13.589828486442444, 46.80706305359768]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "Washington, D.C.",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 4,
+                "title": "Bürgermeister vom Bezirk Spittal",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.591492353382433, 46.810444398180266]
+                "coordinates": [13.592339203105032, 46.80673666666534]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 5,
+                "title": "Blindes Rennen",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.592367471820342, 46.81025915760307]
+                "coordinates": [13.593382409118688, 46.807128455112576]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 6,
+                "title": "Memory",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.59354318494116, 46.81046994900162]
+                "coordinates": [13.594141384758853, 46.808146799181316]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 7,
+                "title": "Stummfilm",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.594345165434206, 46.810148693356076]
+                "coordinates": [13.596690487816826, 46.80695248759374]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "Washington, D.C.",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 8,
+                "title": "BigBag Hüpfen",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.595731867500438, 46.81083342450993]
+                "coordinates": [13.597998265656328, 46.807517235895096]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 9,
+                "title": "Lippenlesen",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.596397055338299, 46.81100231128392]
+                "coordinates": [13.598808449977989, 46.80811556638842]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 10,
+                "title": "Muttern stapeln",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.597030846223117, 46.81066017250604]
+                "coordinates": [13.597749468894792, 46.80988686537236]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "Washington, D.C.",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 11,
+                "title": "Nageln",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.59778190305323, 46.80988652296097]
+                "coordinates": [13.596847946502123, 46.81073710713666]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 12,
+                "title": "Biersorte erraten",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.59884292079206, 46.808087043243205]
+                "coordinates": [13.59637051329567, 46.811050823337744]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 13,
+                "title": "Ball über dem Wasser balancieren",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.596538417081597, 46.806987298078674]
+                "coordinates": [13.594337645280662, 46.810151563336596]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 14,
+                "title": "4 Bilder 1 Wort",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.594130510365941, 46.80816861665049]
+                "coordinates": [13.59353470154409, 46.810458796383124]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "Washington, D.C.",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 15,
+                "title": "Fragen über Kärnten",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.59347063525914, 46.80725055559566]
+                "coordinates": [13.59238350211487, 46.81026464319797]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 16,
+                "title": "Lieder erraten",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.592835884565858, 46.806783347266155]
+                "coordinates": [13.591628987966602, 46.81058762169986]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 17,
+                "title": "Bierkisten stapeln",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.59144003183196, 46.806894635203534]
+                "coordinates": [13.591073982151391, 46.81046359297616]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "Washington, D.C.",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 18,
+                "title": "Schwedenbomben",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.58990262784268, 46.80709607576761]
+                "coordinates": [13.590728459100383, 46.81000514493455]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 19,
+                "title": "Becherschwingen",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.5885863817939, 46.80818650768393]
+                "coordinates": [13.590339315449036, 46.81008810248804]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "Washington, D.C.",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 20,
+                "title": "Bierdeckel saugen",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.58775187422275, 46.80897575889537]
+                "coordinates": [13.589962930605935, 46.81030204506175]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 21,
+                "title": "Kübelspritzen",
+                "imageURL": ""
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [13.588059124734649, 46.80894200825843]
+                "coordinates": [13.58815117984571, 46.8102496510393]
             },
             "properties": {
-                "title": "Mapbox",
-                "description": "San Francisco, California",
-                "imageURL": "https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png"
+                "id": 22,
+                "title": "Fragen vom Bezirk",
+                "imageURL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.588323584511729, 46.809879322659405]
+            },
+            "properties": {
+                "id": 23,
+                "title": "FlipFlop Weitwerfen",
+                "imageURL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.588709822611913, 46.8096920746858]
+            },
+            "properties": {
+                "id": 24,
+                "title": "Radltrugnrennen",
+                "imageURL": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.588326367842896, 46.809401934350625]
+            },
+            "properties": {
+                "id": 25,
+                "title": "Enten schießen",
+                "imageURL": ""
             }
         }
     ]
